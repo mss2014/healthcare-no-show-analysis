@@ -6,7 +6,7 @@ This project focuses on analyzing healthcare appointment no-shows and building a
 Files Included
 - healthcare_noshows.csv - Dataset used
 - healthcare_noshows_cleaned.xlsx: Cleaned dataset after removing unnecessary columns.
-- Project 11: Power BI Dashboard
+- Project 11.png: Power BI Dashboard
 - Created and Tested model.ipynb (Python code): Model predicting patient no-shows.
 - Healthcare_No_Show_Dashboard_Report.pdf: Formal 2-page project report.
 
