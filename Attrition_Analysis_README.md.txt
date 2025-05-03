@@ -60,7 +60,7 @@ The project followed these key steps:
 
 1.  **`employee_attrition_dataset.csv`**: The raw input dataset used for the analysis.
 2.  **`employee_attrition_analysis.ipynb`**: Jupyter Notebook or Python script containing the full code for data loading, EDA, preprocessing, modeling, evaluation, and SHAP analysis.
-3.  **`Employee_Attrition_Dashboard.pbix`**: The Power BI Desktop file containing the interactive dashboard visualizing the attrition data and key insights.
+3.  **`Project 3.png`**: Power BI Dashboard.
 4.  **`Model_Performance_Report.pdf`**: Report detailing the performance metrics (Accuracy, Confusion Matrix, Precision, Recall, F1-Score) for the evaluated machine learning models. *(Note: This might be combined with the suggestions PDF).*
 5.  **`Attrition_Prevention_Suggestions.pdf`**: A document outlining key findings from the analysis and providing actionable recommendations for HR and management to reduce employee attrition.
 6.  **`README.md`**: This file, providing an overview of the project.
